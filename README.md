@@ -1,2 +1,3 @@
-# SPMExample2
-trying to implement SPM 
+# MyLibraryTest
+
+A description of this package.
